@@ -1,0 +1,37 @@
+# pack-refs with: peeled fully-peeled sorted 
+48e3dd781109b5f6ddb44801f527da822776a962 refs/remotes/origin/demo
+ad08ee51ecfb67ffe7d5dc46230a54a456840291 refs/remotes/origin/feat/update-to-8
+e9166ec42f228fda9d2dceb133ea5515cbd12d25 refs/remotes/origin/feature/use-nebular-bootstrap
+354da299b9f5e6ce096c70ea7ed01517f477878c refs/remotes/origin/gh-pages
+32422579d98e0795b90e44ad674a28f56abaaa26 refs/remotes/origin/master
+6dda5bc8ebb507af3ff7faef88a140988beea921 refs/remotes/origin/ng2-admin
+0aee3d42bf7705bf30f172d4954329dd35df04fb refs/remotes/origin/ng2-admin-demo
+d770e1310eceb528d33169d572996073bfca5669 refs/remotes/origin/nnixaa-patch-1
+b49b7756dae7cc1fd5fceac7f482118b4cfc14fb refs/remotes/origin/pinckrow-V-Ahmetvaliev-feat/landing-backend-bundle-section
+47549dec045109690b06753b63d14805999109eb refs/remotes/origin/revert-1777-patch-1
+66b86fa915033466859b61b439b3358c1e26f291 refs/remotes/origin/starter-kit
+4b98e0ee36897dc506c2292a4b88211876ca0d4e refs/remotes/origin/webpack
+08fac421dd891c26d430963aa444e50d12040e69 refs/tags/v0.4.0
+d9084037e738d85e7e8227be1d3c12ceec973bed refs/tags/v0.4.1
+ab3785c8f44475749861e4d6922fe23170d545a7 refs/tags/v0.4.2
+73b0aee9ac592e64ca646d7b6510d9e0da5d04e6 refs/tags/v0.4.3
+^5b4d1ed0358960b837354db7967d8a71fc66d670
+1a5479fb8c2387b85219c0064dedb24ddcda7401 refs/tags/v0.4.4
+647600c167925f70dfc2d17aeb548a67c16d6f0d refs/tags/v0.5.0
+252652b8f9892f8fcf4a026f9e391d13095eb274 refs/tags/v0.6.0
+f18fc6fcb835a6b8dbae7576848b4b625b75a772 refs/tags/v0.7.0
+08386962181b46deedce01bdbd2ec4c9ba71341f refs/tags/v0.8.0
+fbf20df964e59d630fe1bc80187a3d8143a11070 refs/tags/v0.9.0
+72ab016e7500216eecbcd804b3eb9f75eb08ab64 refs/tags/v1.0.0
+28b8cfb7c2b09fd09f9360fbb46446b986dab4ca refs/tags/v2.0.0
+be7649a9a2da83525af9c82bd8c02e1323d7dc5b refs/tags/v2.0.1
+1088b00e4e02ee6dd0c06d15ae6c51df686a5ee5 refs/tags/v2.0.2
+e7bca5c1b79fde73c7fac4fee7b2bbed365d52f5 refs/tags/v2.1.0
+0ba99f2c6bee2490c7f9811f56cd1ed1f7b7a07b refs/tags/v2.1.1
+11a6176097723d585d363e965054a5b48bde05a8 refs/tags/v2.2.0
+f5771a96fc9843abcb62d0dce815a28bb8203039 refs/tags/v2.3.0
+3ce10df91b33b936b04b53b8de3adcc89421b445 refs/tags/v3.0.0
+58e924a55bdb1c086e4202838b75eb9ab20af606 refs/tags/v3.1.0
+fb67e1b54da59705279c0db787b706cddd81cb1c refs/tags/v3.2.0
+6925fd5e3a8d7a7109d0fdb3af8fe7bc4954b8fa refs/tags/v4.0.0
+4ff3d938e49f5dc57f16146cc51176af9885bab5 refs/tags/v4.0.1

@@ -1,0 +1,13 @@
+0000000000000000000000000000000000000000 32422579d98e0795b90e44ad674a28f56abaaa26 phuoctk <duyphuoctk@gmail.com> 1569391837 +0700	clone: from https://github.com/akveo/ngx-admin.git
+32422579d98e0795b90e44ad674a28f56abaaa26 32422579d98e0795b90e44ad674a28f56abaaa26 phuoctk <duyphuoctk@gmail.com> 1569392761 +0700	reset: moving to HEAD
+32422579d98e0795b90e44ad674a28f56abaaa26 66b86fa915033466859b61b439b3358c1e26f291 phuoctk <duyphuoctk@gmail.com> 1569392767 +0700	checkout: moving from master to starter-kit
+66b86fa915033466859b61b439b3358c1e26f291 66b86fa915033466859b61b439b3358c1e26f291 phuoctk <duyphuoctk@gmail.com> 1569398267 +0700	checkout: moving from starter-kit to phuoc_test_UI1_20190925
+66b86fa915033466859b61b439b3358c1e26f291 7d5a344b147e1df441c9c95b50d222d037baa848 phuoctk <duyphuoctk@gmail.com> 1569398290 +0700	commit: test UI
+7d5a344b147e1df441c9c95b50d222d037baa848 32422579d98e0795b90e44ad674a28f56abaaa26 phuoctk <duyphuoctk@gmail.com> 1569398298 +0700	checkout: moving from phuoc_test_UI1_20190925 to master
+32422579d98e0795b90e44ad674a28f56abaaa26 7d5a344b147e1df441c9c95b50d222d037baa848 phuoctk <duyphuoctk@gmail.com> 1569398326 +0700	checkout: moving from master to phuoc_test_UI1_20190925
+7d5a344b147e1df441c9c95b50d222d037baa848 4b3f27810b906c9110b639980ba35be195bc563b phuoctk <duyphuoctk@gmail.com> 1569398442 +0700	commit (amend): test UI
+4b3f27810b906c9110b639980ba35be195bc563b 32422579d98e0795b90e44ad674a28f56abaaa26 phuoctk <duyphuoctk@gmail.com> 1569398454 +0700	checkout: moving from phuoc_test_UI1_20190925 to master
+32422579d98e0795b90e44ad674a28f56abaaa26 4b3f27810b906c9110b639980ba35be195bc563b phuoctk <duyphuoctk@gmail.com> 1569399337 +0700	checkout: moving from master to phuoc_test_UI1_20190925
+4b3f27810b906c9110b639980ba35be195bc563b 4b3f27810b906c9110b639980ba35be195bc563b phuoctk <duyphuoctk@gmail.com> 1569401603 +0700	reset: moving to HEAD
+4b3f27810b906c9110b639980ba35be195bc563b ec026c7590d57b02aba014375331030cc2ebb24a phuoctk <duyphuoctk@gmail.com> 1569401894 +0700	commit: .gitignore fix
+ec026c7590d57b02aba014375331030cc2ebb24a ec026c7590d57b02aba014375331030cc2ebb24a phuoctk <duyphuoctk@gmail.com> 1569403840 +0700	reset: moving to HEAD
