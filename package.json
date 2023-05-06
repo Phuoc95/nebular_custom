@@ -70,7 +70,7 @@
     "@angular/cli": "^8.3.5",
     "@angular/compiler-cli": "^8.0.0",
     "@angular/language-service": "8.0.0",
-    "@compodoc/compodoc": "1.0.1",
+    "@compodoc/compodoc": "1.1.19",
     "@types/datatables.net": "^1.10.17",
     "@types/jasmine": "2.5.54",
     "@types/jasminewd2": "2.0.3",
